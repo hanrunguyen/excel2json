@@ -1,0 +1,9 @@
+{
+  "name": "read-excel-file",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "xlsx": "^0.15.3"
+  }
+}
