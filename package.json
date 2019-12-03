@@ -1,5 +1,5 @@
 {
-  "name": "read-excel-file",
+  "name": "excel-file-to-json",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
